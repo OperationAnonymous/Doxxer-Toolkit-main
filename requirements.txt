@@ -1,0 +1,5 @@
+Faker
+pypng
+requests
+pyshorteners
+pyqrcode
